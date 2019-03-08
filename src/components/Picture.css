@@ -1,0 +1,11 @@
+.Picture {
+    width: 700px;
+    padding: 16px;
+    text-align: center;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    margin: auto;
+    box-sizing: border-box;
+	 color:red;
+	 cursor:pointer;
+}
