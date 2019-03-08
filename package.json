@@ -9,6 +9,10 @@
     "react-scripts": "2.1.5"
   },
 	"homepage": "http://www.knxplaza.com/itobuka/otto/router/",
+ "repository": {
+      "type": "git",
+      "url": "https://github.com/petero63/router.git"
+    },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
